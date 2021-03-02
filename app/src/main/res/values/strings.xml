@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppStoreHB</string>
+    <string name="user_input_text">Username</string>
+    <string name="password_input_text">Password</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_login_google">Log In WIth Google</string>
+
+    <!--Shared Prefenreces -->
+    <string name="shared_preferences_name">mypreferneces</string>
+    <string name="logged_user_key">logged_user</string>
+</resources>

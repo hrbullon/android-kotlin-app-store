@@ -1,0 +1,50 @@
+  [
+    {
+      "name":"Cheese",
+      "price":12500,
+      "location":"Refrigerated foods",
+      "img": ""
+    },
+    {
+      "name":"Crisps",
+      "price":300,
+      "location":"the Snack aisle",
+      "img": ""
+    },
+    {
+      "name":"Doritos",
+      "price":2500,
+      "location":"the Snack aisle",
+      "img": ""
+    },
+    {
+      "name":"Ruffles",
+      "price":2100,
+      "location":"the Snack aisle",
+      "img": ""
+    },
+    {
+      "name":"Pizza",
+      "price":20000,
+      "location":"Refrigerated foods",
+      "img": ""
+    },
+    {
+      "name":"Chocolate",
+      "price":3500,
+      "location":"the Snack aisle",
+      "img": ""
+    },
+    {
+      "name":"Self-raising flour",
+      "price":13500,
+      "location":"Home baking",
+      "img": ""
+    },
+    {
+      "name":"Ground almonds",
+      "price":3780,
+      "location":"Home baking",
+      "img": ""
+    }
+  ]
